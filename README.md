@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -61,8 +62,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
