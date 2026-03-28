@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Quickselect
 |  |
 | ------- |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/loki-1612/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
